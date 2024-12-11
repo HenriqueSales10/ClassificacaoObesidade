@@ -1,4 +1,4 @@
-# Classificação d eobesidade utilizando RandomForest
+# Classificação de obesidade utilizando RandomForest
 
 Projeto acadêmico desenvolvido como parte do curso de Ciência da Computação na UNISOCIESC, com foco em análise preditiva utilizando aprendizado de máquina para identificar e classificar níveis de obesidade em indivíduos.
 
