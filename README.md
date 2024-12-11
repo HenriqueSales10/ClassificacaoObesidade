@@ -20,8 +20,8 @@ O modelo de aprendizado de máquina escolhido foi o Random Forest, devido à sua
 # Conjunto de Dados
 
 Origem
-O conjunto de dados utilizado foi extraído do Kaggle e é composto por 18 atributos, incluindo hábitos alimentares, nível de atividade física e outros fatores de saúde.
-77% dos dados foram gerados sinteticamente usando a ferramenta Weka e o filtro SMOTE, enquanto 23% foram coletados diretamente de usuários por meio de uma plataforma web. Mais informações podem ser encontradas no artigo "Software de Estimativa de Nível de Obesidade baseado em Árvores de Decisão".
+O conjunto de dados utilizado foi extraído do [Kaggle](https://www.kaggle.com/datasets/ankurbajaj9/obesity-levels) e é composto por 18 atributos, incluindo hábitos alimentares, nível de atividade física e outros fatores de saúde.
+77% dos dados foram gerados sinteticamente usando a ferramenta Weka e o filtro SMOTE, enquanto 23% foram coletados diretamente de usuários por meio de uma plataforma web. Mais informações podem ser encontradas no artigo "[Software de Estimativa de Nível de Obesidade baseado em Árvores de Decisão](https://www.sciencedirect.com/science/article/pii/S2352340919306985)".
 
 # Análise Inicial
 Estatísticas Descritivas
